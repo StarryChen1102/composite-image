@@ -1,5 +1,5 @@
 %%
-% input a target picture and enter the target size and number of tiles.
+% input a target picture and enter the target size and number of tiles
 clear;
 clc;
 input_picture = input("Input picture (str): ");
